@@ -2,15 +2,15 @@
 
 SolFeed is a decentralized social media platform built on the Solana network. It allows users to post messages that are stored on the Solana blockchain, providing transparency and immutability.
 
-**Problem 
+__Problem 
 
 Centralized social media platforms have been criticized for their lack of transparency, censorship, and data privacy issues. Users have little control over their personal information and content, which can be monetized or removed by the platform without their consent.
 
-**Solution 
+__Solution 
 
 SolFeed addresses these issues by providing a decentralized alternative where users have complete control over their data and content. The Solana blockchain ensures transparency and immutability, making it impossible for third parties to modify or remove content without the user's permission.
 
-**Features 
+__Features 
 - User-friendly interface
 - Secure transactions using Solana
 - Immutability and transparency of content
