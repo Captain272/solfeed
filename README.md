@@ -2,6 +2,11 @@
 
 SolFeed is a decentralized social media platform built on the Solana network. It allows users to post messages that are stored on the Solana blockchain, providing transparency and immutability.
 
+## Home Page
+<img width="1340" alt="Home" src="https://user-images.githubusercontent.com/57042485/222985635-ae8d84d4-b225-4643-8e03-142bf520d768.png">
+
+## SolFeed
+<img width="1338" alt="SolFeed" src="https://user-images.githubusercontent.com/57042485/222985724-877853c7-08d4-4f16-a24f-a149736400f9.png">
 #### Problem 
 
 Centralized social media platforms have been criticized for their lack of transparency, censorship, and data privacy issues. Users have little control over their personal information and content, which can be monetized or removed by the platform without their consent.
@@ -37,8 +42,3 @@ First, run the development server:
 yarn
 yarn run dev
 ```
-## Home Page
-<img width="1340" alt="Home" src="https://user-images.githubusercontent.com/57042485/222985635-ae8d84d4-b225-4643-8e03-142bf520d768.png">
-
-## SolFeed
-<img width="1338" alt="SolFeed" src="https://user-images.githubusercontent.com/57042485/222985724-877853c7-08d4-4f16-a24f-a149736400f9.png">
