@@ -7,8 +7,8 @@ SolFeed is a decentralized social media platform built on the Solana network. It
 
 ## SolFeed
 <img width="1338" alt="SolFeed" src="https://user-images.githubusercontent.com/57042485/222985724-877853c7-08d4-4f16-a24f-a149736400f9.png">
-#### Problem 
 
+#### Problem 
 Centralized social media platforms have been criticized for their lack of transparency, censorship, and data privacy issues. Users have little control over their personal information and content, which can be monetized or removed by the platform without their consent.
 
 #### Solution 
