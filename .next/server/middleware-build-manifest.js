@@ -18,7 +18,7 @@ self.__BUILD_MANIFEST = {
       "static/chunks/837-10685065e5ad4e7b.js",
       "static/chunks/753-bab0fe892081351c.js",
       "static/css/a219561432fa6b60.css",
-      "static/chunks/pages/index-f13c6f1dca9f5a79.js"
+      "static/chunks/pages/index-b4234e96e716845e.js"
     ],
     "/404": [
       "static/chunks/webpack-b63ff117dfe59414.js",
