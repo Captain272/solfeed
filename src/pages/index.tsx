@@ -11,6 +11,8 @@ const Home: NextPage = (props) => {
           name="description"
           content="This site will fly high 🦤"
         />
+<meta name="dscvr:canvas:version" content="vNext">
+<meta name="og:image" content="https://my-canvas.com/preview-image.png"></meta>
       </Head>
       <HomeView />
     </div>
