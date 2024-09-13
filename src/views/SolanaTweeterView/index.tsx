@@ -5,10 +5,10 @@ import { useAnchorWallet, useConnection } from "@solana/wallet-adapter-react";
 import { HomeIcon, UserIcon } from "@heroicons/react/outline";
 import orderBy from "lodash.orderby";
 
-import { Loader, SelectAndConnectWalletButton } from "components";
+import { Loader, SelectAndConnectWalletButton } from "../../components";
 import * as anchor from "@project-serum/anchor";
 
-import { SolanaLogo } from "components";
+import { SolanaLogo } from "../../components";
 import styles from "./index.module.css";
 import { getTweets, authorFilter, sendTweet } from "./tweets";
 import { useProgram } from "./useProgram";
@@ -76,7 +76,7 @@ export const SolanaTweeterView: FC = ({}) => {
                   connect with other Solana enthusiasts!
                 </p>
 
-                <p className="font-bold mb-5">Got something to say? Let's hear it!
+                <p className="font-bold mb-5">Got something to say? Let &apos s hear it!
                 Be heard on SolFeed 💫
                 </p>
               </div>

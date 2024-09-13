@@ -20,7 +20,7 @@ import { FC } from "react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 import * as anchor from "@project-serum/anchor";
 
-import { SolanaLogo } from "components";
+import { SolanaLogo } from "../../components";
 import { MintSection } from "./MintSection";
 import { config } from "./config";
 import styles from "./index.module.css";

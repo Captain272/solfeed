@@ -6,7 +6,7 @@ import { useAlert } from "react-alert";
 
 import { LAMPORTS_PER_SOL } from "@solana/web3.js";
 
-import { Loader, SelectAndConnectWalletButton } from "components";
+import { Loader, SelectAndConnectWalletButton } from "../../components";
 import { useAnchorWallet } from "@solana/wallet-adapter-react";
 
 import {

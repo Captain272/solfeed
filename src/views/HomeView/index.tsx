@@ -3,7 +3,7 @@ import { FC } from "react";
 import { useWallet } from "@solana/wallet-adapter-react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 
-import { SolanaLogo } from "components";
+import { SolanaLogo } from "../../components";
 import styles from "./index.module.css";
 
 export const HomeView: FC = ({}) => {
